@@ -1,4 +1,8 @@
 _repo: Hereford-Tales-of-English-Minsters_48423
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48423-h/images/cover.jpg
 creator:
   author:
     agent_name: Grierson, Elizabeth W. (Elizabeth Wilson)
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '33327'
     url: http://www.gutenberg.org/2009/agents/33327
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48423#Hereford-Tales-of-English-Minsters
 gutenberg_issued: '2015-03-07'
 gutenberg_type: Text
 identifiers:
